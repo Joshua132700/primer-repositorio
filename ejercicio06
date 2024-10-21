@@ -1,0 +1,9 @@
+<?php
+echo "<P>Reto Numero 6<P>";
+$ropa = array("camisa", "patalon", "Cinturon");
+
+foreach($ropa as $elemento){
+      echo $elemento . " <BR>";
+
+      }
+  ?>    
